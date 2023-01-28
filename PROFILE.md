@@ -7,3 +7,5 @@ Third line added in third-branch
 Fourth line - now modified
 
 Fifth line
+
+6th line
